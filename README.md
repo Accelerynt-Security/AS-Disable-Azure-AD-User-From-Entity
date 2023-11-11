@@ -10,6 +10,9 @@ This playbook is intended to be run from a Microsoft Sentinel entity. It will di
 
 ![Azure_AD_Disable_User_Demo_1](Images/Azure_AD_Disable_User_Demo_1.png)
 
+> **Note**
+> This playbook is meant to be used in tandem with https://github.com/Accelerynt-Security/AS-Enable-Azure-AD-User-From-Entity. The "**Create an App Registration**" and "**Create an Azure Key Vault Secret**" setup steps only need to be completed once, as both playbooks share the same requirements.
+
 
 #
 ### Requirements
