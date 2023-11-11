@@ -127,21 +127,6 @@ Click the one corresponding to the Logic App.
 
 ![Azure_AD_Disable_User_Deploy_3](Images/Azure_AD_Disable_User_Deploy_3.png)
 
-Click on the "**Edit**" button. This will bring us into the Logic Apps Designer.
-
-![Azure_AD_Disable_User_Deploy_4](Images/Azure_AD_Disable_User_Deploy_4.png)
-
-Before the playbook can be run, the Azure AD connection will either need to be authorized in the indicated step, or an existing authorized connection may be alternatively selected. This connection can be found under the third step labeled "**For each**".
-
-![Azure_AD_Disable_User_Deploy_5](Images/Azure_AD_Disable_User_Deploy_5.png)
-
-Expand the "**Connections**" step and click the exclamation point icon next to the name matching the playbook.
-                                                                                                
-![Azure_AD_Disable_User_Deploy_6](Images/Azure_AD_Disable_User_Deploy_6.png)
-
-When prompted, sign in to validate the connection.                                                                                                
-![Azure_AD_Disable_User_Deploy_7](Images/Azure_AD_Disable_User_Deploy_7.png)
-
 
 #
 ### Granting Access to Azure Key Vault
